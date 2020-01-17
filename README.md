@@ -15,7 +15,7 @@ Flask Middleware JWT aims to improve a flask micro-framework with a new way of a
 
 Run the command in shell:
 
-> pip3 install flask-middleware-jwt
+> pip3 install socketio_middleware_jwt
 
 ## App Configuration
 
